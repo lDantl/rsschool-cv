@@ -28,5 +28,5 @@
 https://www.codewars.com/kata/reviews/56257b1427e918467e000174/groups/6389d621fb11500001911138
 
 6. https://github.com/lDantl/minishell.git
-7.higher education (KNITU im. Tupolev), design engineer, School 21
+7. Higher education (KNITU im. Tupolev), design engineer, School 21
 8. English lang. ( А2. Elementary)
